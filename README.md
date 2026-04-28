@@ -2,7 +2,7 @@
 
 Quality Management System for the independent 4-layer environmental sensor PCB project (Arduino Nano ESP32 carrier board).
 
-**Student ID:** ab4647  
+**Student ID:** ab4647  vlgg20
 **Project:** EE22005 Engineering Practice and Design - Synthesis Portfolio  
 **Date:** March 2026
 
